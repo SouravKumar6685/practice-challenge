@@ -43,4 +43,4 @@ jobs:
       
       # Build thhe app
       - name: Build Application
-        run: npm run build
+        run: npm run build  # Comment
